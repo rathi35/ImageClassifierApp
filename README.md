@@ -13,9 +13,9 @@ ImageClassifierApp is a simple iOS application built using SwiftUI and CoreML th
 
 ## 📱 Screenshots
 
-| Home Screen | Classification Result |
-|-------------|----------------|
-|![Home Screen](https://github.com/user-attachments/assets/75eae866-a2eb-486e-a0d0-977d53f26e8d)| ![Classification Result](https://github.com/user-attachments/assets/95aeb84f-a7b5-47b3-b5ec-280726222bd9)|
+| Home Screen | Home Screen | Classification Result |
+|-------------|-------------|----------------|
+|![Splash screen](https://github.com/user-attachments/assets/0ab7133e-9502-4f88-a36d-f3385f2936a7)|![Home Screen](https://github.com/user-attachments/assets/75eae866-a2eb-486e-a0d0-977d53f26e8d)| ![Classification Result](https://github.com/user-attachments/assets/95aeb84f-a7b5-47b3-b5ec-280726222bd9)|
 
 
 ## 🛠 Requirements
